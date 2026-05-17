@@ -190,6 +190,7 @@ redirect_from:
 #### 2026年度
 - **[2026b]** Chaoyang Xie, Junhu Xu, Guangyi Huang, Shihang Wang, Mutian He, Xinyu Dong, Huiyang Hong, Xiaojun Yao, Qi Wang*, **<font color="#ff9933">Yuquan Li*</font>**. Spectral decomposition of chemical semantics for activity cliffs-aware molecular property prediction[J]. `Advanced Science`, 2026: e17579. [[HTML]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517579)  [[PDF]](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202517579)
 - **[2026a]** Huiyang Hong, Xinkai Wu, Hongyu Sun, Chaoyang Xie, Qi Wang*, **<font color="#ff9933">Yuquan Li*</font>**. Learning hierarchical interaction for accurate molecular property prediction[J]. `Communications Chemistry`,2026. [[HTML]](https://www.nature.com/articles/s42004-026-01922-x)  [[PDF]](https://www.nature.com/articles/s42004-026-01922-x_reference.pdf)
+- **[2026c]** Chaoyang Xie, Xiaorui Wang, Yawen Dong, Xiaojun Yao\*, Gefei Hao\*, **<font color="#ff9933">Yuquan Li\*</font>**. Reshaping the drug discovery ecosystem with open science and collaborative innovation[J]. `The Innovation Drug Discovery`, 2026, 1(1): 100016. [[HTML]](https://doi.org/10.59717/j.xinn-drugdisc.2026.100016)
 
 
 #### 2025年度
