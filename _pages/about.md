@@ -188,6 +188,7 @@ redirect_from:
 ### 所有论文
 
 #### 2026年度
+
 - **[2026b]** Chaoyang Xie, Junhu Xu, Guangyi Huang, Shihang Wang, Mutian He, Xinyu Dong, Huiyang Hong, Xiaojun Yao, Qi Wang*, **<font color="#ff9933">Yuquan Li*</font>**. Spectral decomposition of chemical semantics for activity cliffs-aware molecular property prediction[J]. `Advanced Science`, 2026: e17579. [[HTML]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517579)  [[PDF]](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202517579)
 - **[2026a]** Huiyang Hong, Xinkai Wu, Hongyu Sun, Chaoyang Xie, Qi Wang*, **<font color="#ff9933">Yuquan Li*</font>**. Learning hierarchical interaction for accurate molecular property prediction[J]. `Communications Chemistry`,2026. [[HTML]](https://www.nature.com/articles/s42004-026-01922-x)  [[PDF]](https://www.nature.com/articles/s42004-026-01922-x_reference.pdf)
 - **[2026c]** Chaoyang Xie, Xiaorui Wang, Yawen Dong, Xiaojun Yao\*, Gefei Hao\*, **<font color="#ff9933">Yuquan Li*</font>**. Reshaping the drug discovery ecosystem with open science and collaborative innovation[J]. `The Innovation Drug Discovery`, 2026, 1(1): 100016. [[HTML]](https://www.the-innovation.org/article/doi/10.59717/j.xinn-drugdisc.2026.100016)  [[PDF]](https://www.the-innovation.org/data/article/export-pdf?id=69d5f87fa26741285584291b)
@@ -237,6 +238,7 @@ redirect_from:
 # 🏛️ 学术活动
 <table class="cv-table"><tr><td class="cv-date">      
       2026.5<br>
+      2026.5<br>
       2026.3<br>
       2026.1<br>
       2026.1<br>
@@ -247,6 +249,7 @@ redirect_from:
       审稿<br>
 
     </td><td>
+      聘为全国研究生教育评估监测专家库专家，十余篇硕士、博士学位论文评审<br>
       The Innovation Drug Discovery 青年编委会<br>
       The Innovation期刊青年编委会<br>
       Exploration首届植物科学国际研讨会，负责人<br>
