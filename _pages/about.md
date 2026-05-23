@@ -249,7 +249,7 @@ redirect_from:
       审稿<br>
 
     </td><td>
-      聘为全国研究生教育评估监测专家库专家，十余篇硕士、博士学位论文评审<br>
+      聘为全国研究生教育评估监测专家库专家，进行硕士、博士学位论文评审<br>
       The Innovation Drug Discovery 青年编委会<br>
       The Innovation期刊青年编委会<br>
       Exploration首届植物科学国际研讨会，负责人<br>
