@@ -1,3 +1,11 @@
 _site/
 push.sh
 .DS_Store
+
+# _pages: only keep about.md
+_pages/about_*.md
+_pages/about ti.md
+_pages/en.md
+_pages/_aipd_backup.md
+_pages/_aipd_backup_en.md
+_pages/_other_backup.md
