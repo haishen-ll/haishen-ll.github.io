@@ -87,7 +87,7 @@ redirect_from:
       2025.1、2025.8<br>
     </td><td>
       中国生物信息学学会农林信息学专业委员会，青年委员<br>
-      《<a href="https://www.the-innovation.org/drugdiscovery">The Innovation Drug Discovery</a>》(目标IF 25~30)，创刊筹委、学术编委(执行)<br>
+      《<a href="https://www.the-innovation.org/drugdiscovery">The Innovation Drug Discovery</a>》(目标IF 25~30)，创刊筹委、学术编辑(执行)<br>
       《<a href="https://www.cell.com/the-innovation/home">The Innovation</a>》期刊(综合一区 IF=25.7)，青年编委<br>
       《<a href="https://onlinelibrary.wiley.com/journal/2770596x">iMeta</a>》期刊(生物一区 IF=33.2)，青年编委<br>
       《<a href="https://onlinelibrary.wiley.com/journal/27662098">Exploration</a>》期刊(综合一区 IF=22.5)，青年编委、青委会植物学部副主任<br>
@@ -237,6 +237,7 @@ redirect_from:
 
 # 🏛️ 学术活动
 <table class="cv-table"><tr><td class="cv-date">      
+      2026.1-今<br>
       2026.5<br>
       2026.5<br>
       2026.3<br>
@@ -249,6 +250,7 @@ redirect_from:
       审稿<br>
 
     </td><td>
+      作为学术编辑(执行)，完成The Innovation Drug Discovery相关工作(青年编委面试组组长3次，全权稿件处理5次)<br>
       聘为全国研究生教育评估监测专家库专家，进行硕士、博士学位论文评审<br>
       The Innovation Drug Discovery 青年编委会<br>
       The Innovation期刊青年编委会<br>
@@ -258,7 +260,7 @@ redirect_from:
       <a href="https://cimc2024.casconf.cn/static/1902608504397631488/pages/file/ca97cafdda2a4595b2b4fc45c61868af.pdf">第十四届全国生物信息学与系统生物学学术大会</a>，报告题目：多目标梯度引导分子生成<br>
       <a href="https://chem.lzu.edu.cn/index.php?m=content&c=index&a=show&catid=77&id=9441">兰州大学第十五届研究生学术年会</a>，报告题目：化学×AI，现在与未来<br>
       中国植保学会、中国人工智能学会、中国计算机学会、中国化学会等<br>
-      iMeta、Nature Communications、Plant Nano Biology、iMetaOmics、iMetaMed、Briefings in Bioinformatics等<br>
+      iMeta、Nature Communications、Advanced Science、Briefings in Bioinformatics、JCIM、Plant Nano Biology、iMetaOmics、iMetaMed等<br>
     </td></tr>
 </table>
 
