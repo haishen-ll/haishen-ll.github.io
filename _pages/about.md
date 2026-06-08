@@ -250,7 +250,7 @@ redirect_from:
       审稿<br>
 
     </td><td>
-      作为学术编辑(执行)，完成The Innovation Drug Discovery相关工作(青年编委面试组组长3次，全权稿件处理5次)<br>
+      作为学术编辑(执行)，完成The Innovation Drug Discovery期刊相关工作(青年编委面试组组长3次，全权稿件处理5次)<br>
       聘为全国研究生教育评估监测专家库专家，进行硕士、博士学位论文评审<br>
       The Innovation Drug Discovery 青年编委会<br>
       The Innovation期刊青年编委会<br>
