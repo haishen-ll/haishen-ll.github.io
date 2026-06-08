@@ -237,7 +237,6 @@ redirect_from:
 
 # 🏛️ 学术活动
 <table class="cv-table"><tr><td class="cv-date">      
-      2026.1-今<br>
       2026.5<br>
       2026.5<br>
       2026.3<br>
@@ -248,9 +247,9 @@ redirect_from:
       2023.3<br>
       会员<br>
       审稿<br>
+      期刊<br>
 
     </td><td>
-      作为学术编辑(执行)，完成The Innovation Drug Discovery期刊相关工作(青年编委面试组组长3次，全权稿件处理5次)<br>
       聘为全国研究生教育评估监测专家库专家，进行硕士、博士学位论文评审<br>
       The Innovation Drug Discovery 青年编委会<br>
       The Innovation期刊青年编委会<br>
@@ -261,6 +260,8 @@ redirect_from:
       <a href="https://chem.lzu.edu.cn/index.php?m=content&c=index&a=show&catid=77&id=9441">兰州大学第十五届研究生学术年会</a>，报告题目：化学×AI，现在与未来<br>
       中国植保学会、中国人工智能学会、中国计算机学会、中国化学会等<br>
       iMeta、Nature Communications、Advanced Science、Briefings in Bioinformatics、JCIM、Plant Nano Biology、iMetaOmics、iMetaMed等<br>
+      作为学术编辑(执行)，完成The Innovation Drug Discovery期刊相关工作(青年编委面试组组长3次，全权稿件处理5次)；作为青年编委，完成iMeta期刊相关工作(生物信息学专刊组织)<br>
+
     </td></tr>
 </table>
 
