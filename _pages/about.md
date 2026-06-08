@@ -259,7 +259,7 @@ redirect_from:
       <a href="https://cimc2024.casconf.cn/static/1902608504397631488/pages/file/ca97cafdda2a4595b2b4fc45c61868af.pdf">第十四届全国生物信息学与系统生物学学术大会</a>，报告题目：多目标梯度引导分子生成<br>
       <a href="https://chem.lzu.edu.cn/index.php?m=content&c=index&a=show&catid=77&id=9441">兰州大学第十五届研究生学术年会</a>，报告题目：化学×AI，现在与未来<br>
       中国植保学会、中国人工智能学会、中国计算机学会、中国化学会等<br>
-      iMeta、Nature Communications、Advanced Science、Briefings in Bioinformatics、JCIM、Plant Nano Biology、iMetaOmics、iMetaMed等<br>
+      iMeta、Nature Communications、Advanced Science、Briefings in Bioinformatics、JCIM等<br>
       作为学术编辑(执行)，完成The Innovation Drug Discovery期刊相关工作(青年编委面试组组长3次，全权稿件处理5次)；作为青年编委，完成iMeta期刊相关工作(生物信息学专刊组织)<br>
 
     </td></tr>
