@@ -72,9 +72,9 @@ I have long worked on **AI for Science, with a focus on AI-driven target discove
     </td><td>
       Professional Committee on Agricultural and Forestry Informatics, China Society of Bioinformatics, Youth Committee Member<br>
       "<a href="https://www.the-innovation.org/drugdiscovery">The Innovation Drug Discovery</a>" (Targeting IF 25~30), Founding Preparatory Committee Member; Academic Editor (Executive)<br>
-      "<a href="https://www.cell.com/the-innovation/home">The Innovation</a>" (Comprehensive Q1 IF=25.7), Youth Editorial Board<br>
-      "<a href="https://onlinelibrary.wiley.com/journal/2770596x">iMeta</a>" (Biology Q1 IF=33.2), Youth Editorial Board<br>
-      "<a href="https://onlinelibrary.wiley.com/journal/27662098">Exploration</a>" (Comprehensive Q1 IF=22.5), Youth Editorial Board, Deputy Director of Plant Division of Youth Committee<br>
+      "<a href="https://www.cell.com/the-innovation/home">The Innovation</a>" (Comprehensive Q1 IF=39.5), Youth Editorial Board<br>
+      "<a href="https://onlinelibrary.wiley.com/journal/2770596x">iMeta</a>" (Biology Q1 IF=44.4), Youth Editorial Board<br>
+      "<a href="https://onlinelibrary.wiley.com/journal/27662098">Exploration</a>" (Comprehensive Q1 IF=30.4), Youth Editorial Board, Deputy Director of Plant Division of Youth Committee<br>
       China-Sri Lanka Belt and Road Joint Laboratory of Tea Green Prevention and Control Technology, Founding Participant<br>
       The 6th International Conference on Green Plant Protection Innovation, Organizing Committee<br>
       Guizhou Provincial Big Data Bureau Project Artificial Intelligence Industry Direction Review Expert Group, Leader<br>
