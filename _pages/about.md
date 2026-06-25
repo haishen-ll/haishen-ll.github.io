@@ -31,7 +31,7 @@ Here is Lei Liu. I am an AI researcher focused on (medical) large language model
 
 
 
-**Hiring**：. The Ant-Med Algorithm Team is recruiting interns and full-time members for large-scale infra, LLM training and medical applications. 
+**Hiring**：The Ant-Med Algorithm Team is recruiting interns and full-time members for large-scale infra, LLM training and medical applications. 
 
 <span class='anchor' id='educations'></span>
 
@@ -41,8 +41,8 @@ Here is Lei Liu. I am an AI researcher focused on (medical) large language model
       2020&ensp; - 2025<br>
      
     </td><td>
-      Post-doc - Zhejiang University
-      PhD - The Chinese Univerity of Hong Kong, Shenzhen
+      Post-doc - 浙江大学
+      PhD - 香港中文大学（深圳）
     </td></tr>
 </table>
 
@@ -53,7 +53,7 @@ Here is Lei Liu. I am an AI researcher focused on (medical) large language model
 <table class="cv-table"><tr><td class="cv-date">      
       2025.6&ensp; - Now<br>
     </td><td>
-      Algorithm Expert, Ant Healthcare, Ant Group
+      算法专家, 蚂蚁健康, 蚂蚁集团
     </td></tr>
 </table>
 
@@ -63,30 +63,36 @@ Here is Lei Liu. I am an AI researcher focused on (medical) large language model
 
 
 # 📝 学术论文
-**[1]** **Li** et al. An adaptive graph learning method for automated molecular interactions and properties predictions. `Nature Machine Intelligence IF=23.8`<sup>▴</sup>
-[[HTML]](https://www.nature.com/articles/s42256-022-00501-8) [[PDF]](/pdf/paper_2022a.pdf)  
+**[1]** **Lei Liu**, Hao Zhu, Xiaoyan Yang, Yue Shen, Zhixuan Chu, Jian Wang, Jinjie Gu, Kui Ren. Perplexity-Aware Data Scaling Law: Perplexity Landscapes Predict Performance for Continual Pre-training. `Oral Presentation, ACL 2026`
 
-**[2]** **Li** et al. Introducing block design in graph neural networks for molecular properties prediction. `Chemical Engineering Journal IF=16.7`<sup>▴</sup>
-[[HTML]](https://doi.org/10.1016/j.cej.2021.128817) [[PDF]](/pdf/paper_2021a.pdf)  
+**[2]** **Lei Liu**, Li Liu, Yawen Cui. Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning. `ACM-MM 2024`
+[[HTML]](https://dl.acm.org/doi/10.1145/3664647.3681106) [[PDF]](https://dl.acm.org/doi/10.1145/3664647.3681106)  
 
-**[3]** **Li\*** et al. Spectral decomposition of chemical semantics for activity cliffs-aware molecular property prediction. `Advanced Science IF=14.1`<sup>▴</sup>
-[[HTML]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517579)  [[PDF]](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202517579)
+**[3]** **Lei Liu**, Xiaoyan Yang, Fangzhou Li, Chenfei Chi, Yue Shen, Shiwei Lyu, Ming Zhang, Xiaowei Ma, Xiangguo Lyu, Liya Ma, Zhiqiang Zhang, Wei Xue, Yiran Huang, Jinjie Gu. Towards Automatic Evaluation for LLMs' Clinical Capabilities: Metric, Data, and Algorithm. `KDD 2024`<sup>▴</sup>
+[[HTML]](https://arxiv.org/pdf/2403.16446) [[PDF]](https://arxiv.org/pdf/2403.16446)  
 
-**[4]** **Li<sup>†</sup>** et al. TrimNet: learning molecular representation from triplet messages for biomedicine. `Briefings in Bioinformatics IF=13.9`<sup>▴</sup>
-[[HTML]]( https://doi.org/10.1093/bib/bbaa266) [[PDF]](/pdf/paper_2021c.pdf)  
+**[4]** Yuxuan Zhang\*, **Lei Liu\***, Li Liu. Cuing Without Sharing: A Federated Cued Speech Recognition Framework via Mutual Knowledge Distillation. `ACM-MM 2023`
+[[HTML]](https://dl.acm.org/doi/10.1145/3581783.3612134)  [[PDF]](https://dl.acm.org/doi/10.1145/3581783.3612134)
 
-**[5]** **Li<sup>†</sup>** et al. RetroPrime: A Diverse, plausible and Transformer-based method for Single-Step retrosynthesis predictions. `Chemical Engineering Journal IF=16.7`<sup>▴</sup>
-[[HTML]](https://doi.org/10.1016/j.cej.2021.129845) [[PDF]](/pdf/paper_2021b.pdf)  
+**[5]** Yaopei Zeng\*, **Lei Liu\***, Li Liu, Li Shen, Shaoguo Liu, Baoyuan Wu. Global Balanced Experts for Federated Long-Tailed Learning. `ICCV 2023`
+[[HTML]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_Global_Balanced_Experts_for_Federated_Long-Tailed_Learning_ICCV_2023_paper.pdf) [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_Global_Balanced_Experts_for_Federated_Long-Tailed_Learning_ICCV_2023_paper.pdf)  
 
-**\***通讯  **<sup>†</sup>**共一  <sup>▴</sup>发表当年IF  
-一定程度代表该刊当年认可度及发表难度，~~主要是懒得年年更新最新IF~~  
+**[6]** **Lei Liu**, Li Liu. Cross-modal Mutual Learning for Cued Speech Recognition. `ICCV 2023`
+[[HTML]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_Global_Balanced_Experts_for_Federated_Long-Tailed_Learning_ICCV_2023_paper.pdf) [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_Global_Balanced_Experts_for_Federated_Long-Tailed_Learning_ICCV_2023_paper.pdf) 
+
+**[7]** Lei Liu, Li Liu, Haizhou Li. Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition. `IEEE TASLP`
+
+**[8]** Xidong Wang, Shuqi Guo, Yue Shen, Junying Chen, Jian Wang, Jinjie Gu, Ping Zhang, **Lei Liu<sup>†</sup>**, Benyou Wang<sup>†</sup>. LiveClin: A Live Clinical Benchmark without Leakage
+
+
+**\***Co-first Author  **<sup>†</sup>**Corresponding Author 
 
 <!-- [[内容介绍-GLAM]](#research_project_3) 
 [[媒体分享-AItellU]](https://zhuanlan.zhihu.com/p/587238348) [[-DrugAI]](https://zhuanlan.zhihu.com/p/533498924) [[③-ScienceAI]](https://mp.weixin.qq.com/s/WNEBqxIszWNrR8tRf118Cg)[[④-ADNLab]](https://mp.weixin.qq.com/s/jpjawahwfIurLTlW6DcBUA)   [[⑤-ComputArt]](https://mp.weixin.qq.com/s/0eFKuVyZGirULmDfNJhCqA)  [[⑥-今日新材料]](https://mp.weixin.qq.com/s/9IRcRQ8lGc8v5q6Kk7EWyQ)  [[⑦-智能生信]](https://mp.weixin.qq.com/s/ppGBD7mxHcY7ptih4_T-4Q) [[⑧-智药局 回顾！AI辅助药物研发领域的32篇重磅论文]](https://mp.weixin.qq.com/s/BgM828sCB2njBv01MH0DYw) 
 [[内容介绍-BGNN]](#research_project_1) 
 [[内容介绍-TrimNet]](#research_project_2) [[媒体分享-智能生信]](https://mp.weixin.qq.com/s/yRvkCi8zx5Qfyf4zj0nt4Q)
 [[媒体分享-智药邦]](https://mp.weixin.qq.com/s/PG-nMMH6NYVj3Mc8Lzbb9g) -->
-
+<!-- 
 ### 所有论文
 
 #### 2026年度
@@ -177,4 +183,4 @@ Here is Lei Liu. I am an AI researcher focused on (medical) large language model
 世界一流底刊[《Call》](https://callpress.org/index.php/call/editorial) 期刊副主编(Associate Editor, AE)  
 
 
-
+ -->
