@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "黎育权"
-description              : "贵大特聘教授,AI for Science:智能靶标发现与分子设计"
-repository               : "yvquanli/yvquanli.github.io"
-url                      : "https://yuquan.li"
+title                    : "Lei Liu"
+description              : "Algorithm Expert, Ant Healthcare, Ant Group"
+repository               : "haishen-ll/haishen-ll.github.io"
+url                      : "https://haishen-ll"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  G-WRDS6KHG7Y # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-68E9BSFLF1 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  pPZ67a7tG0zcxZ8SyEdNuiErWb9R-wTIHpG-4X3xxhc # get google_site_verification from https://search.google.com/search-console/about
