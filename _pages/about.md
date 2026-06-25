@@ -1,6 +1,6 @@
 ---
 permalink: /
-lang: zh
+lang: en
 
 title: ""
 
@@ -27,131 +27,35 @@ author_profile: true
 
 
 
+Here is Lei Liu. I am an AI researcher focused on (medical) large language models and applications. I obtained my PhD from The Chinese Univerity of Hong Kong, Shenzhen (CUHK-SZ) then joined Ant Group with the Plan A Award. Now, I am a postdoctoral researcher sponsored by Ant Group and Zhejiang University. 
 
 
 
-
-
-长期从事 **AI for Science领域，AI靶标发现与分子设计方向**的研究工作。针对分子科学发现设计空间近乎无限、湿验证却昂贵缓慢且成功率极低的核心矛盾，研究“专家智慧+通用智能+专用工具+自动实验”四位一体协作的精准分子科学发现新范式，构建人机协同、干湿闭环的智能科研平台，推动AI从辅助计算走向落地实用的自主分子科学发现。相关工作已以主要作者身份发表于Nature Machine Intelligence、Advanced Science等期刊。目前研究兴趣包括: 
-
-- AI基础研究：大模型智能体与群体智能、图数据处理与图学习  
-- AI for Science研究：靶向小分子/肽/蛋白/小核酸/材料设计、干湿闭环机器科学家
-
-**交流ing**：非常希望跟各位专家和同学建立联系，碰撞新思想和合作(微信yvquanli)。  
-
-**收稿ing**：欢迎联系本人投稿至TIDD/Innovation/Exploration/iMeta期刊，高质量稿件将推荐优先送审。  
-
-[**招生ing**](https://www.xiaohongshu.com/discovery/item/68f60c6f0000000004013c00)：硕博/联培/实习招募中。承诺永不抢一作不骂人不无端卡毕业，开学入门培训，全程精细指导，丰富计算资源，帮助每位同学产出一篇一作一区/A会论文，优秀者全力支持发子刊。   
+**Hiring**：. The Ant-Med Algorithm Team is recruiting interns and full-time members for large-scale infra, LLM training and medical applications. 
 
 <span class='anchor' id='educations'></span>
 
 # 🎓 教育经历
-<table class="cv-table"><tr><td class="cv-date">      
-      2019.9&ensp; - 2024.6<br>
-      2015.9&ensp; - 2019.6
+<table class="cv-table"><tr><td class="cv-date"> 
+      2025&ensp; - Now<br>
+      2020&ensp; - 2025<br>
+     
     </td><td>
-      硕博 - 兰州大学，化学化工学院(专业：化学信息学，导师：<a href="https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php">姚小军教授</a>)<br>
-      本科 - 青海大学，计算机学院(专业：计算机科学与技术)
+      Post-doc - Zhejiang University
+      PhD - The Chinese Univerity of Hong Kong, Shenzhen
     </td></tr>
 </table>
 
 <span class='anchor' id='jobs'></span>  
 
 # 🧑‍💻 工作经历
+# <a href="https://pbd.gzu.edu.cn/2024/1122/c17349a242836/page.htm">Ant Group</a>，Algorithm Expert<br>
 <table class="cv-table"><tr><td class="cv-date">      
-      2024.10 - 今<br>
-      2024.10 - 今<br>
-      2022.7&ensp; - 2023.4<br>
-      2020.8&ensp; - 2022.6<br>
+      2025.6&ensp; - Now<br>
     </td><td>
-      <a href="https://pbd.gzu.edu.cn/2024/1122/c17349a242836/page.htm">贵州大学 省大数据实验室/计算机科学与技术学院</a>，特聘教授<br>
-      <a href="https://cs.gzu.edu.cn/16246/list.htm">贵州大学 绿色农药全国重点实验室</a>，流动研究人员 <br>
-      <a href="https://www.baai.ac.cn/">北京智源人工智能研究院</a> <a href="https://bigaidream.github.io/">付杰团队</a>，研究实习<br>
-      <a href="https://quantum.tencent.com/">腾讯公司 量子实验室</a>，联合培养(合作导师：<a href="https://person.zju.edu.cn/changyuhsieh">谢昌谕博士</a>)<br>
+      Algorithm Expert, Ant Healthcare, Ant Group
     </td></tr>
 </table>
-
-<span class='anchor' id='jobs2'></span>    
-
-# 🏛️ 学术兼职
-<table class="cv-table"><tr><td class="cv-date">  
-      2026.5 &ensp;- 今<br>
-      2026.1 &ensp;- 今<br>
-      2025.8 &ensp;- 今<br>
-      2025.8 &ensp;- 今<br>
-      2024.9 &ensp;- 今<br>
-      2024.8 &ensp;- 今<br>
-      2026.1<br>
-      2025.1、2025.8<br>
-    </td><td>
-      中国生物信息学学会农林信息学专业委员会，青年委员<br>
-      《<a href="https://www.the-innovation.org/drugdiscovery">The Innovation Drug Discovery</a>》(目标IF 25~30)，创刊筹委、学术编辑(执行)<br>
-      《<a href="https://www.cell.com/the-innovation/home">The Innovation</a>》期刊(综合一区 IF=39.5)，青年编委<br>
-      《<a href="https://onlinelibrary.wiley.com/journal/2770596x">iMeta</a>》期刊(生物一区 IF=44.4)，青年编委<br>
-      《<a href="https://onlinelibrary.wiley.com/journal/27662098">Exploration</a>》期刊(综合一区 IF=30.4)，青年编委、青委会植物学部副主任<br>
-      中斯茶叶绿色防控一带一路国际联合实验室， 创始建设参与<br>
-      第六届国际绿色植保技术创新会议，组委会<br>
-      贵州省大数据局项目人工智能产业方向评审专家组，组长<br>
-    </td></tr>
-</table>
-
-
-
-
-<span class='anchor' id='projects'></span>  
-
-# 📑 科研项目
-[1]国家数据局数据集先行先试项目,全国作物病虫草-农药多模态植物保护数据集,2026,课题负责人  
-[2]国家自然科学基金地区项目,基于人工智能的麦田蚜虫RNAi基因挖掘及RNAi农药设计,32万,2026,主持  
-[3]贵州大学人才引进特岗项目,多约束小分子生成设计新方法研究,40万,2024,主持  
-
-
-
-<span class='anchor' id='people'></span>  
-
-# 👥 团队成员
-
-<table class="cv-table"><tr>  
-    <td style="vertical-align:top; width:33%;">
-      <b>名下指导</b>  <br>
-      <a href="mailto:2509362787@qq.com">蒋俞萱</a>,25硕,RNA小分子抑制剂<br>
-      <a href="mailto:2396081899@qq.com">陈维迅</a>,25硕,智能体分子设计<br>
-    </td>
-    <td style="vertical-align:top; width:33%;">
-      <b>联培博士</b><br>
-      <a href="mailto:dongxinyu@samlab.cn">董新宇</a>¹,24博,多目标分子生成<br>
-      <a href="mailto:h397465119@163.com">黄广义</a>¹,24博,AI靶标发现<br>
-      <a href="mailto:p2412771@mpu.edu.mo">徐楷</a>²,&emsp;24博,靶向分子生成<br>
-      <a href="mailto:sereinnario@gmail.com">何牧天</a>²,25博,大分子药物<br>
-      <a href="mailto:p2521371@mpu.edu.mo">王世航</a>²,25博,细胞表型学习<br>
-      <a href="mailto:gong-dh@foxmail.com">龚道宏</a>²,25博,靶向蛋白降解设计<br> 
-      <a href="mailto:1460167652@qq.com">崔金煜</a>³,25博,多肽及递送设计<br> 
-      <a href="mailto:shuangy.th@gmail.com">唐胡双寅</a>²,26博,递送系统<br>
-    </td>
-    <td style="vertical-align:top; width:33%;">
-      <b>联培硕士</b><br>
-      <a href="mailto:2118116004@qq.com">周军</a>¹,&emsp;24硕,合成规划<br>
-      <a href="mailto:3331231706@qq.com">朱磊</a>³,&emsp;24硕,抗菌肽设计<br>
-      <a href="mailto:3156785727@qq.com">谢朝阳</a>⁴,23硕,分子性质预测<br>
-      <br><b>毕业成员</b><br>
-      <a href="mailto:3272282882@qq.com">洪晖阳</a>, 22本,已前往侯廷军教授组<br>  
-    </td></tr>
-</table>
-
-
-深度合作导师：[郝格非¹](https://gpabl.gzu.edu.cn/2023/0807/c18863a195026/page.htm)、[姚小军²](https://www.mpu.edu.mo/esca/zh/yaoxiaojun.php)、[杨文超³](https://pmc.gzu.edu.cn/2025/1104/c23019a260269/page.htm)、联培导师⁴  
-深度合作伙伴：[王晓瑞](https://scholar.google.com/citations?hl=zh-CN&user=uyN1Gf4AAAAJ)，深圳理工大学合成生物学院，特聘副教授，研究方向为AI合成规划  
-
-
-
-
-
-
-
-
-
-
-
 
 
 <span class='anchor' id='publications'></span>
