@@ -16,50 +16,50 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  G-68E9BSFLF1 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  pPZ67a7tG0zcxZ8SyEdNuiErWb9R-wTIHpG-4X3xxhc # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  B844D40EAEFC38971DFA16E71913045F # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  codeva-J3gpkCZkVY # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :  google6a68fb70b4ab7db3 # get google_site_verification from https://search.google.com/search-console/about
+# bing_site_verification   :  B844D40EAEFC38971DFA16E71913045F # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  codeva-J3gpkCZkVY # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "黎育权"
+  name             : "Lei Liu"
   avatar           : "/images/android-chrome-512x512.png"
 
-  bio              : "特聘教授"
-  location         : "贵阳市花溪区"
-  employer         : # "贵州大学"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuquan+Li"
-  googlescholar    : "https://scholar.google.com/citations?user=lCJi22EAAAAJ"
-  email            : "yvquan.li@gzu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yuquan-Li-3"
-  uri              :
-  bitbucket        : 
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "yvquanli"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-2756-0449"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "https://twitter.com/yvquanli"
-  vine             :
-  weibo            :
-  xing             : # "Wechat: yvquanli"
-  youtube          :
-  wikipedia        :
-  wechat           : # "https://github.com/yvquanli"
+  bio              : "Algorithm Expert"
+  location         : "Hangzhou, Zhejiang"
+  employer         : "Ant HealthCare, Ant Group"
+  # pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuquan+Li"
+  googlescholar    : "https://scholar.google.com/citations?user=jssN4RMAAAAJ&hl"
+  email            : "liulei1497@gmail.com"
+  # researchgate     : "https://www.researchgate.net/profile/Yuquan-Li-3"
+  # uri              :
+  # bitbucket        : 
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
+  # github           : "yvquanli"
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
+  # linkedin         : # e.g., "linkedin username"
+  # dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  # orcid            : "https://orcid.org/0000-0003-2756-0449"
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : # "https://twitter.com/yvquanli"
+  # vine             :
+  # weibo            :
+  # xing             : # "Wechat: yvquanli"
+  # youtube          :
+  # wikipedia        :
+  # wechat           : # "https://github.com/yvquanli"
 
 
 # Reading Files
