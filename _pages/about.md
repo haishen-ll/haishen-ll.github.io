@@ -37,9 +37,8 @@ Here is Lei Liu. I am an AI researcher focused on (medical) large language model
 
 # 🎓 教育经历
 <table class="cv-table"><tr><td class="cv-date"> 
-      2025&ensp; - Now<br>
-      2020&ensp; - 2025<br>
-     
+      2025 - Now<br>
+      2020 - 2025<br>
     </td><td>
       Post-doc - 浙江大学
       PhD - 香港中文大学（深圳）
@@ -109,7 +108,7 @@ Here is Lei Liu. I am an AI researcher focused on (medical) large language model
 - **[2025a]** Zhenglu Chen, Chunbin Gu\*, Shuoyan Tan, Xiaorui Wang, **<font color="#ff9933">Yuquan Li</font>**, Mutian He, Ruiqiang Lu, Shijia Sun, Chang-Yu Hsieh\*, Xiaojun Yao\*, Huanxiang Liu\*, Pheng-Ann Heng. Interpretable PROTAC Degradation Prediction With Structure-Informed Deep Ternary Attention Framework[J]. `Advanced Science`, 2025. [[HTML]](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202508138)  [[PDF]](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202508138)
 
 #### 2024年度
-
+nohup python monitor_kimi_ckpt.py > /mnt/amed-s1/common/ckpt/haishen/kimi_2_5_sft/output.log 2>&1 &
 - **[2024a]** Xiaorui Wang, Xiaodan Yin, Dejun Jiang, Huifeng Zhao, Zhenxing Wu, Odin Zhang, Jike Wang, **<font color="#ff9933">Yuquan Li</font>**, Yafeng Deng, Huanxiang Liu, Pei Luo, Yuqiang Han, Tingjun Hou\*, Xiaojun Yao\*, Chang-Yu Hsieh\*. Multi-modal deep learning enables efficient and accurate annotation of enzymatic active sites[J]. `Nature Communications`, 2024, 15(1): 7348. [[HTML]](https://www.nature.com/articles/s41467-024-51511-6#citeas)  [[PDF]](https://www.nature.com/articles/s41467-024-51511-6.pdf)  
 
 #### 2023年度
