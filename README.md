@@ -22,8 +22,8 @@
 
 1. 创建公开仓库。个人主页可命名为 `你的用户名.github.io`；也可以使用普通项目仓库。
 2. 将本文件夹中的文件上传到仓库根目录，确保 `index.html` 位于根目录，保留 `assets` 文件夹和 `.nojekyll` 文件。
-3. 在仓库 **Settings → Pages → Build and deployment** 中选择 **Deploy from a branch**。
-4. 选择 **main** 分支和 **/(root)**，保存。
+3. 在仓库 **Settings → Pages → Build and deployment** 中选择 **GitHub Actions**。
+4. 本仓库使用 `master` 分支，提交更新后由 `.github/workflows/pages.yml` 自动部署。
 5. 等待 GitHub 部署成功，在 Pages 设置页查看访问地址。以后更新文件并提交即可更新网站。
 
 官方说明：https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
@@ -43,9 +43,9 @@
 
 ## 当前目标仓库部署
 
-仓库： https://github.com/haishen-ll/Ocean537.github.io
+仓库： https://github.com/haishen-ll/haishen-ll.github.io
 
-主分支为 `master`。已配置 `.github/workflows/pages.yml`，在仓库 Settings → Pages → Source 选择 **GitHub Actions** 后，推送 master 或手动运行 Deploy academic homepage 工作流即可部署。预期地址为 https://haishen-ll.github.io/Ocean537.github.io/ ，需以部署成功后的输出为准。旧 Jekyll 文件保留；部署包只包含新版站点文件。
+主分支为 `master`。已配置 `.github/workflows/pages.yml`，在仓库 Settings → Pages → Source 选择 **GitHub Actions** 后，推送 master 或手动运行 Deploy academic homepage 工作流即可部署。预期地址为 https://haishen-ll.github.io/ ，需以部署成功后的输出为准。旧 Jekyll 文件保留；部署包只包含新版站点文件。
 
 ## 开源医疗大模型
 
