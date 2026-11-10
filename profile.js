@@ -213,23 +213,6 @@ window.PROFILE = {
     },
     {
       "year": "2026",
-      "venue": "arXiv preprint arXiv:2606.09365 , 2026",
-      "title": {
-        "en": "Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory",
-        "zh": "Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory"
-      },
-      "authors": "H Sun, W Li, Y Zhang, Z Lin, F Zhang, K Chen, X He, Y Li, M Liu, L Liu, ...",
-      "description": "",
-      "abstract": "",
-      "tags": [
-        "2026"
-      ],
-      "links": {
-        "Scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=jssN4RMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=jssN4RMAAAAJ:e5wmG9Sq2KIC"
-      }
-    },
-    {
-      "year": "2026",
       "venue": "MICCAI 2026 , 2026",
       "title": {
         "en": "BiM-GeoAttn-Net: Linear-Time Depth Modeling with Geometry-Aware Attention for 3D Aortic Dissection CTA Segmentation",
